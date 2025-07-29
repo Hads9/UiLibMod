@@ -2,7 +2,7 @@
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
 repeat task.wait(0.25) until game:IsLoaded();
-getgenv().Image = "rbxassetid://128142679893562"; -- put a asset id in here to make it work
+getgenv().Image = "16765736563"; -- put a asset id in here to make it work
 getgenv().ToggleUI = "E" -- This where you can Toggle the Fluent ui library
 
 task.spawn(function()
